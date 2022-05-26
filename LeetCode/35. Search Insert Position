@@ -2,6 +2,8 @@ Link : https://leetcode.com/problems/search-insert-position/
 
 Approach : Binary Search + STL
 
+other approach:https://leetcode.com/problems/search-insert-position/discuss/15101/C%2B%2B-O(logn)-Binary-Search-that-handles-duplicate
+
 My code time : 00ms
 Space : 9.6 mb
 My Code :
@@ -25,3 +27,4 @@ public:
         else{return (lower_bound(nums.begin(),nums.end(),target)-nums.begin());}
     }
 };
+
