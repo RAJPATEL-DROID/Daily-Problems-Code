@@ -1,0 +1,24 @@
+Link : https://leetcode.com/problems/two-sum/
+
+Concept : Hash Table (unordered_map)
+GOOD SOLUTION APPROACHES : https://leetcode.com/problems/two-sum/discuss/189807/c-and-c%2B%2B-solutions.-c%2B%2B-is-O(n)-time-and-just-6-lines.-Includes-c-O(n)-hashmap-solution
+Code :
+class Solution {
+public:
+    vector<int> twoSum(vector<int>& nums, int target) {
+        vector<int> v;
+        unordered_map<int,int> m;
+        for(int i =0;i<nums.size();i++){
+            if(m.find(target-nums[i])!= m.end())
+            {
+                v.push_back(i);
+                v.push_back(m[target-nums[i]]);
+                return v;
+            }
+            else{
+                m[nums[i]]=i;
+            }
+        }
+        return v;
+    }
+};
