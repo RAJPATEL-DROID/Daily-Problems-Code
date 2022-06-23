@@ -1,1 +1,83 @@
+Set A :
 
+P0 : https://www.geeksforgeeks.org/counting-frequencies-of-array-elements/?ref=lbp
+
+(Most Fundamental and Most Important)
+
+P1 : https://www.geeksforgeeks.org/given-an-array-a-and-a-number-x-check-for-pair-in-a-with-sum-as-x/
+
+ Solution : https://www.youtube.com/watch?v=dRUpbt8vHpo&list=PLgUwDviBIf0rVwua0kKYlsS_ik_1lyVK_
+
+ 
+
+P2 : https://www.geeksforgeeks.org/find-whether-an-array-is-subset-of-another-array-set-1/
+
+ (Focus more on Hashng based solutions mentioned . Set and Map are mainly ued for Hashing.) 
+
+P3 : https://www.geeksforgeeks.org/maximum-distance-two-occurrences-element-array/
+
+ (Very Important)
+
+P4 : https://www.geeksforgeeks.org/minimum-operation-make-elements-equal-array/?ref=lbp
+
+P5 : https://www.geeksforgeeks.org/count-maximum-points-on-same-line/?ref=lbp
+
+ P6 : https://www.geeksforgeeks.org/check-given-array-contains-duplicate-elements-within-k-distance/?ref=lbp
+
+(Very Important)
+
+P7 : https://www.geeksforgeeks.org/sum-of-elements-in-an-array-with-frequencies-greater-than-or-equal-to-that-element/?ref=rp
+
+P8 : https://leetcode.com/problems/first-unique-character-in-a-string/
+
+P9 : https://leetcode.com/problems/find-common-characters/
+
+P10 : https://www.geeksforgeeks.org/count-pairs-with-given-sum/
+
+Set B : 
+
+P1 : https://www-geeksforgeeks-org.cdn.ampproject.org/v/s/www.geeksforgeeks.org/number-subarrays-sum-exactly-equal-k/amp/?amp_js_v=a6&amp_gsa=1&usqp=mq331AQKKAFQArABIIACAw%3D%3D#aoh=16470976960317&referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.geeksforgeeks.org%2Fnumber-subarrays-sum-exactly-equal-k%2F
+
+ 
+
+P2 : (Minimal length subarray of sum K)
+
+ 
+
+https://stackoverflow.com/questions/64418218/smallest-subarray-with-sum-equal-to-k
+
+Try to think of a hashing solution for this problem , assume that numbers in the array can be negative integers as well..
+
+ 
+
+P3 : https://www.youtube.com/watch?v=lO9R5CaGRPY
+
+P4 : https://leetcode.com/problems/continuous-subarray-sum/
+
+ 
+
+P5 : https://leetcode.com/problems/subarray-sums-divisible-by-k/
+
+ 
+
+P6 : https://www.geeksforgeeks.org/count-subarrays-with-sum-equal-to-its-xor-value/
+
+ 
+
+P7 : https://leetcode.com/problems/max-number-of-k-sum-pairs/
+
+ 
+
+P8 : https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/
+
+ 
+
+P9:https://leetcode.com/problems/number-of-pairs-of-strings-with-concatenation-equal-to-target/
+
+ 
+
+P10 : https://www.geeksforgeeks.org/find-a-triplet-that-sum-to-a-given-value/
+
+ 
+
+P11 : https://www.geeksforgeeks.org/count-quadruplets-with-sum-k-from-given-array/
